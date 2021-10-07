@@ -1,6 +1,6 @@
 <?php
 
-require __DIR__  . '/../public/Home/home.hmtl';
+header("location: ../public/Home/home.html")
 
 
 ?>
