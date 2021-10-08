@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="../Home/home.html">ir para home</a>
+    <a href="../Home/home.php">ir para home</a>
 </body>
 </html>
